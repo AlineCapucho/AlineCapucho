@@ -14,7 +14,7 @@ I'm Aline, a 23 year old developer from Rio de Janeiro, Brazil looking to furthe
 
 [![Alines's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineCapucho&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineCapucho&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineCapucho&count_private=true&show_icons=true&theme=nightowl&exclude_repo=[coe241-probest])](https://github.com/anuraghazra/github-readme-stats)
 
 
 
