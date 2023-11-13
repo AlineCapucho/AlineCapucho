@@ -4,7 +4,7 @@
 **AlineCapucho/AlineCapucho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Aline, a 23 year old developer from Rio de Janeiro, Brazil looking to further my experiences and skills in Web Development and Software Quality.
+I'm Aline, a 24 year old developer from Rio de Janeiro, Brazil looking to further my experiences and skills in Web Development and Software Quality.
 
 - 👩🏻 She/her
 - 🎓 I'm studying to get my bachelor's degree in Computer Engineering at UFRJ
